@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @davifiquer
-- 👀 I’m interested in Python, finance and machine learning.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on finance projects.
-- 📫 How to reach me: davifiquer@gmail.com
+- 👋 Oi, Eu sou @davifiquer
+- 👀 Estou interessado em projetos de Java e Python
+- 🌱 Atualmente estou estudando VueJS para aprimorar minhas habilidades de frontend.
+- 📫 Para entrar em contato comigo: davifiquer@gmail.com
 
 <!---
 davifiquer/davifiquer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
