@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou @davifiquer
 - 👀 Estou interessado em projetos de Java e Python
-- 🌱 Atualmente estou estudando VueJS para aprimorar minhas habilidades de frontend.
+- 🌱 Atualmente estou estudando AngularJS para aprimorar minhas habilidades de frontend.
 - 📫 Para entrar em contato comigo: davifiquer@gmail.com
 
 <!---
